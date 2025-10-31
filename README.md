@@ -79,6 +79,6 @@ conceitos abordados:
  - Resultado: Dados copiados, processados e consolidados.
 
 
-  ![image]()
+  ![image](https://github.com/DrieleMoreira/AWS-DIO-DESAFIO-02/blob/main/stepfunctions_graph.svg)
 
 
